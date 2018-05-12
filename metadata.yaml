@@ -1,0 +1,34 @@
+_repo: The-Seven-Great-Monarchies-Of-The-Ancient-Eastern-World-Vol-7--The-Sassanian-or-New-Persian-E__16167
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rawlinson, George
+    birthdate: 1812
+    deathdate: 1902
+    gutenberg_agent_id: '872'
+    url: http://www.gutenberg.org/2009/agents/872
+    wikipedia: http://en.wikipedia.org/wiki/George_Rawlinson
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16167'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Assyria -- History'
+- !lcsh 'Parthia -- History'
+- !lcsh 'History, Ancient'
+- !lcc 'D'
+- !lcsh 'Iran -- History'
+- !lcsh 'Babylonia -- History'
+title: "The Seven Great Monarchies Of The Ancient Eastern World, Vol 7: The Sassanian\
+  \ or New Persian Empire\r\nThe History, Geography, And Antiquities Of Chaldaea,\
+  \ Assyria, Babylon, Media, Persia, Parthia, And Sassanian or New Persian Empire;\
+  \ With Maps and Illustrations."
+url: http://www.gutenberg.org/ebooks/16167
